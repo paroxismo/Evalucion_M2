@@ -1,0 +1,12 @@
+#elid {
+    border: 5px;
+    position: absolute;
+    z-index: 10;
+}
+#pet-select {
+    border: 5px;
+    position: absolute;
+    z-index: 10;
+    cursor: pointer;
+
+}
